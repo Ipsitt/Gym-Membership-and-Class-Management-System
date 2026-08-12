@@ -16,7 +16,7 @@ Designed for small to medium-sized fitness centers, GMCS offers a secure, scalab
 - Personal trainer appointment requests
 - Attendance tracking
 - Fitness progress monitoring
-- Administrator dashboard
+- Administrator dashboard that has access to everything
 - Trainer dashboard
 - Member dashboard
 - Member and trainer profile management
