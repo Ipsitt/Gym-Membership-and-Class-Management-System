@@ -4,7 +4,7 @@ The **Gym Membership and Class Management System (GMCS)** is a desktop applicati
 
 The system replaces manual record keeping with an organized digital solution, allowing members to register, renew memberships, book classes, monitor their progress, and view attendance records. Administrators and trainers can efficiently manage member information, schedules, payments, and gym activities, reducing administrative workload while improving accuracy and overall user experience.
 
-Designed for small to medium-sized fitness centers, GMCS offers a secure, scalable, and user-friendly solution that enhances both operational efficiency and member engagement.
+Designed for small to medium sized fitness centers, GMCS offers a secure, scalable, and user-friendly solution that enhances both operational efficiency and member engagement.
 
 ---
 
